@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @poysh
 - 👀 I’m interested in Embedded, Serverless, Backend
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
