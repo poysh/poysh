@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @poysh
 - 👀 I’m interested in Embedded, Serverless, Backend
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me ...
 
 <!---
 poysh/poysh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
